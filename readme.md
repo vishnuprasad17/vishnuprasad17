@@ -21,7 +21,7 @@ Feel free to ask me anything related to these topics!
 
 My expertise includes:
 <blockquote>
-  Full-stack development | MERN stack (MongoDB, Express.js, React.js, Node.js) | Web and mobile game development | Interactive web design | Developing scalable and robust web applications | HTML | CSS | JavaScript | Database management (SQL, NoSQL) | Version control (Git) | Problem-solving and algorithms
+  Full-stack development | MERN stack (MongoDB, Express.js, React.js, Node.js) | Web development | Interactive web design | Developing scalable and robust web applications | HTML | CSS | JavaScript | Database management (SQL, NoSQL) | Version control (Git) | Problem-solving and algorithms
 </blockquote>
 
 <!-- GitHub Stats -->
