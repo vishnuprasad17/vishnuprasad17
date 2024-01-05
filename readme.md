@@ -26,11 +26,11 @@ My expertise includes:
 
 <!-- Stats and Languages (Side by Side using Flexbox) -->
 <div style="display: flex; justify-content: space-between;">
-  <div style="flex: 45%;">
-    <img src="https://github-readme-stats.vercel.app/api?username=vishnuprasad17&show_icons=true&theme=radical" alt="GitHub Stats" width="100%" />
+  <div >
+    <img src="https://github-readme-stats.vercel.app/api?username=vishnuprasad17&show_icons=true&theme=radical" alt="GitHub Stats" />
   </div>
-  <div style="flex: 45%;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishnuprasad17&layout=compact" alt="Top Languages" width="100%" />
+  <div >
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishnuprasad17&layout=compact" alt="Top Languages" />
   </div>
 </div>
 
