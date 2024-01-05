@@ -9,33 +9,20 @@
 <!-- Ask Me About -->
 ## 💬 Ask Me About
 
-I can help you with:
-
-- JavaScript
-- MongoDB
-- Express.js
-- React.js
-- Node.js
-- TypeScript
-- PostgreSQL
-- GraphQL
-- Data Structures and Algorithms (DSA)
-- AWS (Amazon Web Services)
+I can help you with understanding:
+<blockquote>
+  JavaScript | MongoDB | Express.js | React.js | Node.js | TypeScript | PostgreSQL | GraphQL | Data Structures and Algorithms (DSA) | AWS (Amazon Web Services)
+</blockquote>
 
 Feel free to ask me anything related to these topics!
 
 <!-- Skills -->
 ## 💻 Skills
 
-- Full-stack development
-- MERN stack (MongoDB, Express.js, React.js, Node.js)
-- Web development
-- Interactive web design
-- Developing scalable and robust web applications
-- HTML, CSS, JavaScript
-- Database management (SQL, NoSQL)
-- Version control (Git)
-- Problem-solving and algorithms
+My expertise includes:
+<blockquote>
+  Full-stack development | MERN stack (MongoDB, Express.js, React.js, Node.js) | Web and mobile game development | Interactive web design | Developing scalable and robust web applications | HTML | CSS | JavaScript | Database management (SQL, NoSQL) | Version control (Git) | Problem-solving and algorithms
+</blockquote>
 
 <!-- Explore Repositories -->
 ## 🌐 Explore My Repositories
