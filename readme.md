@@ -24,16 +24,16 @@ My expertise includes:
   Full-stack development | MERN stack (MongoDB, Express.js, React.js, Node.js) | Web and mobile game development | Interactive web design | Developing scalable and robust web applications | HTML | CSS | JavaScript | Database management (SQL, NoSQL) | Version control (Git) | Problem-solving and algorithms
 </blockquote>
 
-<!-- GitHub Stats -->
-## GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vishnuprasad17&show_icons=true&theme=radical" alt="GitHub Stats" width="45%" />
-</div>
-
-<!-- Most Used Languages -->
-## Most Used Languages
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishnuprasad17&layout=compact" alt="Top Languages" width="45%" />
+<!-- Stats and Languages (Inline) -->
+<div align="center" style="display: flex; flex-direction: row;">
+  <div style="width: 50%;">
+    <h2 align="center">GitHub Stats</h2>
+    <img src="https://github-readme-stats.vercel.app/api?username=vishnuprasad17&show_icons=true&theme=radical" alt="GitHub Stats" width="100%" />
+  </div>
+  <div style="width: 50%;">
+    <h2 align="center">Most Used Languages</h2>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishnuprasad17&layout=compact" alt="Top Languages" width="100%" />
+  </div>
 </div>
 
 <!-- Explore Repositories -->
