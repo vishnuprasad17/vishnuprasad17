@@ -24,15 +24,15 @@ My expertise includes:
   Full-stack development | MERN stack (MongoDB, Express.js, React.js, Node.js) | Web and mobile game development | Interactive web design | Developing scalable and robust web applications | HTML | CSS | JavaScript | Database management (SQL, NoSQL) | Version control (Git) | Problem-solving and algorithms
 </blockquote>
 
-<!-- Stats and Languages (Side by Side using Flexbox) -->
-<div style="display: flex; justify-content: space-between;">
-  <div >
-    <img src="https://github-readme-stats.vercel.app/api?username=vishnuprasad17&show_icons=true&theme=radical" alt="GitHub Stats" />
-  </div>
-  <div >
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishnuprasad17&layout=compact" alt="Top Languages" />
-  </div>
-</div>
+<!-- GitHub Stats -->
+## GitHub Stats
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=vishnuprasad17&show_icons=true&theme=radical)
+
+<!-- Most Used Languages -->
+## Most Used Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vishnuprasad17&layout=compact)
 
 <!-- Explore Repositories -->
 ## 🌐 Explore My Repositories
