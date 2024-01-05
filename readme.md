@@ -3,8 +3,8 @@
 
 <!-- Introduction -->
 <p align="center">⚡ I am a self-taught full-stack developer.</p>
-<p align="center">Currently busy learning and acquiring new coding skills, focusing on full-stack development in MERN stack.</p>
-<p align="center">Interested in creating interactive web designs and developing web applications that are scalable and robust.</p>
+<p align="center">📚 Currently busy learning and acquiring new coding skills, focusing on full-stack development in MERN stack.</p>
+<p align="center">🎯 Interested in creating interactive web designs and developing web applications that are scalable and robust.</p>
 
 <!-- Ask Me About -->
 ## 💬 Ask Me About
@@ -42,9 +42,7 @@ Feel free to ask me anything related to these topics!
 
 You can explore some of my projects and works to see what I've been building:
 
-- [Project 1](link-to-project-1): Brief description or title
-- [Project 2](link-to-project-2): Brief description or title
-- [Project 3](link-to-project-3): Brief description or title
+- [Vox E-commerce](https://github.com/vishnuprasad17/VOX-MEN): E-commerce clothing website (Vox Men)
 
 <!-- Contact Me -->
 ## 📫 Contact Me
