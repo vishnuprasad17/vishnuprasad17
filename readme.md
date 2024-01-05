@@ -26,13 +26,15 @@ My expertise includes:
 
 <!-- GitHub Stats -->
 ## GitHub Stats
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=vishnuprasad17&show_icons=true&theme=radical)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vishnuprasad17&show_icons=true&theme=radical" alt="GitHub Stats" width="45%" />
+</div>
 
 <!-- Most Used Languages -->
 ## Most Used Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vishnuprasad17&layout=compact)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishnuprasad17&layout=compact" alt="Top Languages" width="45%" />
+</div>
 
 <!-- Explore Repositories -->
 ## 🌐 Explore My Repositories
